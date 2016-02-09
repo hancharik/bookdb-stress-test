@@ -1,0 +1,6 @@
+class BookDBView {
+
+    public BookDBView() {
+    }
+    
+}
